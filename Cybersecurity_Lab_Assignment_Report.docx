@@ -1,0 +1,32 @@
+GET /online/ HTTP/1.1
+Host: brightlushquietmorning.neverssl.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:153.0) Gecko/20100101 Firefox/153.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate
+Referer: http://neverssl.com/
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 29 Jun 2022 00:23:22 GMT
+If-None-Match: "8be-5e28b29291e10-gzip"
+Priority: u=0, i
+
+
+HTTP/1.1 200 OK
+Date: Wed, 21 Oct 2026 11:23:19 GMT
+Server: Apache/2.4.68 ()
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Last-Modified: Wed, 29 Jun 2022 00:23:22 GMT
+ETag: "8be-5e28b29291e10-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 1173
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+
+..........uVQo.6.~.~..{..X..,i.....Y.....(.T.$J.L..IEU....Q.....@.y.....N...Q.8....zF;/.....A...=$P..J].`:......b..
+c.....(.L1....J.}Rb#............ ..q	h%.%8...cY...U'..-\.~y.[.Q.n..../l5h+.........\x...j....p..3....D.M...u.eFjG N3.'..-6Hs.C:..e._.^.......t.pC...7..p.bQ....%..L..m;....+.hv.a~...t.....].........%D.b==.K.&.<....I.....5
+|@{.O"s.b..o.v....i%}.eDJ...Oy?......^....Eq.y~.aqu}ww.........$Hn5.g..d.c!..v.|.\.s..c..p.b.\....:....F.d...g..}.=..?X....S..g...e.?....*..Z..B_...........{.Ef.i	..S)...
+~5z	..qd4 .......%;..h.kn..[.q)..V...'.5...b..q$59#..2kz..g.:. C;...3E..0S.CS..VNw.v..../...@...........T..I...wp|..1..&.....z.	j..[Ci.............|...$t...lE!15.Z..........2.....Ek..|.yg....w..a...2....W.t...:..UTD0..NO.."..^.h!+....dIQBA".#...S.&i.J.n..8..(...>...R..p.S..JP.,...'.....XP.8.3..I@....jj.s.j....J.i.JFv]^_.....Jy..... .{....,C6@!J...k..._S.S...<....#.Un..>z.e...[...5:.Zc...L..@.^..q...f..h....w$.8L.O.u..9.'.7x..&....u.6D$;%.L^.....y.,xV......H....AG..j.83B.Q..<xl...h,h....})I!..4.9.p%...M*=7.T	".2f..u6.V.hD..iv.y...e.;....C.y ....y&L../jl.2.s....y....M.|k.vjnK.g)=7..y.1QK.'8.O(.8r.v'1...F.P...y.+.O[...S?...<b..{.....y..9.......]........yD.....
