@@ -1,0 +1,3 @@
+weakuser:x:1002:1002::/home/weakuser:/bin/bash
+mediumuser:x:1003:1003::/home/mediumuser:/bin/bash
+stronguser:x:1004:1004::/home/stronguser:/bin/bash

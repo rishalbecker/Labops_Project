@@ -1,0 +1,1 @@
+Encryption successful using GPG encryption key 6C21AD367986216C85188EFE02E5622D3CC26DCD. Output: secrets.env.gpg

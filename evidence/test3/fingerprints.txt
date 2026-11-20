@@ -1,0 +1,11 @@
+=== RELEASE KEY ===
+pub   rsa2048 2026-11-20 [SC]
+      AA3B 6FFA 8064 850D 4E63  6EFE C87D E898 33F9 29D7
+uid           [ultimate] LabOps Release <helpdesk@labops.example>
+
+
+=== SECOND KEY ===
+pub   rsa2048 2026-11-20 [SC]
+      1B88 AAFE 0925 1C1F 72FC  2670 AC3F 33CD 3368 B76E
+uid           [ultimate] LabOps Release <helpdesk@labops.example>
+

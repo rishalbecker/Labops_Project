@@ -1,0 +1,4 @@
+pub   rsa2048 2026-11-20 [SC]
+      1B88 AAFE 0925 1C1F 72FC  2670 AC3F 33CD 3368 B76E
+uid           [ultimate] LabOps Release <helpdesk@labops.example>
+

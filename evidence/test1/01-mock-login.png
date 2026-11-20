@@ -1,0 +1,18 @@
+Phishing Awareness Demonstration – LabOps
+
+This demonstration used a local mock login page. No credentials were collected or transmitted.
+
+Five warning signs of phishing:
+
+1. Suspicious URL: The domain may not match the organization's official website.
+2. Urgency: Attackers may pressure users to act quickly.
+3. Unexpected login request: A link may request credentials without a valid reason.
+4. Lack of verification: The page may lack a reliable way to confirm its legitimacy.
+5. Suspicious communication: Unexpected messages, unusual sender addresses, or spelling mistakes may indicate phishing.
+
+Recommended protection:
+- Verify the URL before entering credentials.
+- Do not click unexpected login links.
+- Contact IT through a known, trusted channel.
+- Use multi-factor authentication.
+- Report suspicious messages.
